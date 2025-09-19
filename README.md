@@ -78,7 +78,7 @@
 ## 🏅 Achievements & Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-20(1797)-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-1797-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </p>

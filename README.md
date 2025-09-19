@@ -130,4 +130,60 @@
   <a href="https://www.codechef.com/users/simran_sahu31"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
-<!-- Rest of sections remain unchanged (Trophies, CP Summary, GitHub Stats, etc.) -->
+<!-- Animated motion line -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-sahu31&theme=radical&no-bg=true&no-frame=true&column=6" alt="trophies"/>
+</p>
+
+<!-- Animated motion line -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
+
+## 📈 CP Summary
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://leetcard.jacoblin.cool/simran_sahu31?theme=dark&font=Ubuntu&cache=14400&ext=contest" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=simran_sahu31&theme=github_dark&force_username=true&border_color=404040" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/simran_sahu31?ext=heatmap" />
+</p>
+
+<!-- Animated motion line -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simran-sahu31&show_icons=true&theme=radical&hide=prs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran-sahu31&layout=compact&theme=radical" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=simran-sahu31&theme=radical" height="200px"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-sahu31&theme=react-dark&hide_border=true&area=true" alt="activity-graph"/>
+</p>
+
+<!-- Snake (contribution graph animation) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+<!-- Footer motion line -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,100:8A2BE2&section=footer" alt="footer"/></p>
+
+<p align="center"><strong>🔥 Let’s build and solve together. Connect and collaborate anytime!</strong></p>

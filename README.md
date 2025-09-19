@@ -111,7 +111,7 @@
     <td align="center" width="300">
       <a href="https://simran-codly.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Codly-Code%20IDE-yellow?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simran0331&repo=Codly&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simran0331&repo=CODLY&theme=radical" />
       </a>
     </td>
   </tr>

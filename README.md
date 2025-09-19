@@ -136,7 +136,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simran-sahu31&theme=radical&no-bg=true&no-frame=true&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Simran0331&theme=radical&no-bg=true&no-frame=true&column=6" alt="trophies"/>
 </p>
 
 <!-- Animated motion line -->
@@ -165,12 +165,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simran-sahu31&show_icons=true&theme=radical&hide=prs" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran-sahu31&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Simran0331&show_icons=true&theme=radical&hide=prs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simran0331&layout=compact&theme=radical" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=simran-sahu31&theme=radical" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Simran0331&theme=radical" height="200px"/>
 </p>
 
 <!-- Activity Graph -->

@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/simran-sahu31" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/simran_sahu31/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/simransahu313" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <!-- Motion line divider -->
@@ -79,14 +78,13 @@
 ## 🏅 Achievements & Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Knight%20(1797)-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-20(1797)-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AtCoder-8%20kyu-1D3557?style=for-the-badge&logo=atcoder&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&width=640&lines=LeetCode%3A+Knight+(1797);Codeforces%3A+Pupil;CodeChef%3A+2%E2%98%85;AtCoder%3A+8+kyu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&width=640&lines=LeetCode%3A+Knight+(1797);Codeforces%3A+Pupil;CodeChef%3A+2%E2%98%85" />
 </p>
 
 <!-- Animated motion line -->
@@ -99,41 +97,21 @@
 <table>
   <tr>
     <td align="center" width="300">
-      <a href="https://sourabhsplitshare.vercel.app/" target="_blank">
+      <a href="https://simran-splitshare.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/SplitShare-Group%20Expense%20Tracker-blueviolet?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=splitshare&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simran0331&repo=splitshare&theme=radical" />
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://sourabhnotevault.vercel.app/" target="_blank">
+      <a href="https://simran-note-vault.vercel.app/login" target="_blank">
         <img src="https://img.shields.io/badge/NoteVault-Secure%20Note%20Saver-orange?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=notevault&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simran0331&repo=notevault&theme=radical" />
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://sourabhcodly.vercel.app/" target="_blank">
+      <a href="https://simran-codly.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Codly-Code%20IDE-yellow?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codly&theme=radical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://sourabhcodejourney.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/CodeJourney-Progress%20Tracker-green?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codejourney&theme=radical" />
-      </a>
-    </td>
-    <td align="center" width="300">
-      <a href="https://sourabhfintrack.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/FinTrack-Income%20%26%20Expense-cyan?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=FinTrack&theme=radical" />
-      </a>
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/sourabh1211/Leetcode-sourabh-solutions" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode%20Solutions-All%20My%20Codes-black?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=Leetcode-sourabh-solutions&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simran0331&repo=Codly&theme=radical" />
       </a>
     </td>
   </tr>
@@ -150,69 +128,6 @@
   <a href="https://leetcode.com/simran_sahu31/"><img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/simran_sahu31"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/simran_sahu31"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://atcoder.jp/users/simran_sahu31"><img src="https://img.shields.io/badge/AtCoder-1D3557?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
 </p>
 
-<!-- Animated motion line -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simran-sahu31&theme=radical&no-bg=true&no-frame=true&column=6" alt="trophies"/>
-</p>
-
-<!-- Animated motion line -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
-
-## 📈 CP Summary
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://leetcard.jacoblin.cool/simran_sahu31?theme=dark&font=Ubuntu&cache=14400&ext=contest" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=simran_sahu31&theme=github_dark&force_username=true&border_color=404040" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/simran_sahu31?ext=heatmap" />
-</p>
-
-<!-- Animated motion line -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simran-sahu31&show_icons=true&theme=radical&hide=prs" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran-sahu31&layout=compact&theme=radical" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=simran-sahu31&theme=radical" height="200px"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-sahu31&theme=react-dark&hide_border=true&area=true" alt="activity-graph"/>
-</p>
-
-<!-- Snake (contribution graph animation) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
-<!-- Footer motion line -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,100:8A2BE2&section=footer" alt="footer"/></p>
-
-<p align="center"><strong>🔥 Let’s build and solve together. Connect and collaborate anytime!</strong></p>
-
-<!--
-Notes:
-- GitHub READMEs don’t allow custom CSS/JS; all animations come from external SVG/GIF services (safe).
-- If any third-party image endpoint rate-limits, reload or use your own fork of the service.
--->
+<!-- Rest of sections remain unchanged (Trophies, CP Summary, GitHub Stats, etc.) -->

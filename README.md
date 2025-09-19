@@ -99,7 +99,7 @@
     <td align="center" width="300">
       <a href="https://simran-splitshare.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/SplitShare-Group%20Expense%20Tracker-blueviolet?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simran0331&repo=splitshare&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simran0331&repo=SplitShare&theme=radical" />
       </a>
     </td>
     <td align="center" width="300">

@@ -105,7 +105,7 @@
     <td align="center" width="300">
       <a href="https://simran-note-vault.vercel.app/login" target="_blank">
         <img src="https://img.shields.io/badge/NoteVault-Secure%20Note%20Saver-orange?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simran0331&repo=notevault&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simran0331&repo=NoteVault&theme=radical" />
       </a>
     </td>
     <td align="center" width="300">
